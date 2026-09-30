@@ -1,0 +1,4 @@
+dataset_fotos/
+__pycache__/
+*.jpg
+*.png
